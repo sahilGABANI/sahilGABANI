@@ -33,7 +33,7 @@ This ensures your app leverages the latest features of the Android ecosystem for
 
 ## 📈 Let's Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/) <!-- Add your LinkedIn profile -->
+- 🔗 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/sahil-gabani-067964228/)) <!-- Add your LinkedIn profile -->
 - 📧 [Email Me](mailto:your-email@example.com) <!-- Add your email -->
 - 🌍 [Portfolio](https://your-portfolio-link.com) <!-- Add your portfolio -->
 
