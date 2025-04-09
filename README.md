@@ -1,12 +1,23 @@
 # Hi there, I'm Sahil Gabani 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-gabani-067964228/)
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/sahilg65)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilGABANI" alt="sahilGABANI" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sahilGABANI" alt="sahilGABANI" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilGABANI&show_icons=true&locale=en&layout=compact" alt="sahilGABANI" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilGABANI&show_icons=true&locale=en&layout=compact" alt="sahilGABANI" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilGABANI" alt="sahilGABANI" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilGABANI" alt="sahilGABANI" />
+</p>
 
+<br/>
 
 # 🚀 Java | Kotlin | Jetpack Compose | App Developer
 
@@ -27,28 +38,30 @@ This ensures your app leverages the latest features of the Android ecosystem for
 - **UI Framework:** Jetpack Compose  
 - **Architecture Patterns:** MVC, MVVM  
 - **Code Quality & Optimization:** Clean code practices, performance optimization  
-- **Social Authentication:** Integration with and without Firebase  
+- **Social Authentication:** Implementation with and without Firebase  
 - **Push Notifications:** Topic-wise, token-based (Firebase), OneSignal, local notifications  
-- **Firebase:** Realtime Database, Firestore, Analytics, Cloud Messaging  
-- **Payment Integration:** Google Play Billing, Razorpay  
-- **Geolocation Services:** Google Maps, Location tracking  
-- **Version Control:** GitHub, GitLab  
-- **Project Management Tools:** Trello, Jira  
-- **Design Tools:** Figma  
-- **CI/CD:** GitHub Actions, Bitrise  
+- **Firebase:** Realtime Database, Firestore, Authentication, Cloud Messaging  
+- **Payment Integration:** Google In-App Billing, Razorpay  
+- **Geolocation Services:** Google Maps, location tracking  
+- **Third-Party Libraries:** Retrofit, Glide, Hilt, Dagger, Coroutines, and more  
+- **Version Control & Collaboration:** Git, GitHub, GitLab, Bitbucket  
+- **Project Management Tools:** Jira, Trello  
 
 ---
 
-## 📈 Let's Connect!
+## 📈 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-gabani-067964228/)
-[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/sahilg65)
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sahil-gabani-067964228/) <!-- Add your LinkedIn profile -->
-- 📧 [Email Me](mailto:your-email@example.com) <!-- Add your email -->
-- 🌍 [Portfolio](https://your-portfolio-link.com) <!-- Add your portfolio -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilGABANI&show_icons=true&locale=en" alt="sahilGABANI" />
+</p>
 
 ---
 
-_Always open to exciting projects and collaborations!_
+## 🚀 Connect With Me
 
+- [LinkedIn](https://www.linkedin.com/in/sahil-gabani-067964228/)
+- [Upwork](https://www.upwork.com/freelancers/sahilg65)
+
+---
+
+Thank you for visiting! ⭐️
