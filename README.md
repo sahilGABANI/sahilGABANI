@@ -1,5 +1,13 @@
 # Hi there, I'm Sahil Gabani 👋
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilGABANI" alt="sahilGABANI" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilGABANI&show_icons=true&locale=en&layout=compact" alt="sahilGABANI" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilGABANI" alt="sahilGABANI" /></p>
+
+
 # 🚀 Java | Kotlin | Jetpack Compose | App Developer
 
 ## 📱 Android App Developer - Elevate Your Digital Experience 🚀
