@@ -2,7 +2,7 @@
 
 ## 📱 Android App Developer - Elevate Your Digital Experience 🚀
 
-With over **2+ years of dedicated experience**, I specialize in creating high-performance mobile apps exclusively for the **Android** platform.  
+With over **3+ years of dedicated experience**, I specialize in creating high-performance mobile apps exclusively for the **Android** platform.  
 My passion for Android development drives me to deliver innovative and immersive user experiences for your digital needs.
 
 ### 📱 Kotlin and Jetpack Compose Expertise
