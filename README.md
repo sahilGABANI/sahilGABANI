@@ -33,6 +33,9 @@ This ensures your app leverages the latest features of the Android ecosystem for
 
 ## 📈 Let's Connect!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-gabani-067964228/)
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/your-profile)
+
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sahil-gabani-067964228/) <!-- Add your LinkedIn profile -->
 - 📧 [Email Me](mailto:your-email@example.com) <!-- Add your email -->
 - 🌍 [Portfolio](https://your-portfolio-link.com) <!-- Add your portfolio -->
