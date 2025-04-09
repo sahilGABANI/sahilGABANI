@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Sahil Gabani 👋
 
-<!--
-**sahilGABANI/sahilGABANI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 iOS Developer | Android Enthusiast | Tech Explorer
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **iOS projects and billing integration**
+- 🌱 I’m currently learning **SwiftUI & Machine Learning**
+- 👯 I’m looking to collaborate on **Open Source**
+- 💬 Ask me about **Mobile Development & SDKs**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilGABANI&show_icons=true&theme=radical)
+
+### 🚀 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
