@@ -1,14 +1,41 @@
-# Hi there, I'm Sahil Gabani 👋
+# 🚀 Java | Kotlin | Jetpack Compose | App Developer
 
-🚀 iOS Developer | Android Enthusiast | Tech Explorer
+## 📱 Android App Developer - Elevate Your Digital Experience 🚀
 
-- 🔭 I’m currently working on **iOS projects and billing integration**
-- 🌱 I’m currently learning **SwiftUI & Machine Learning**
-- 👯 I’m looking to collaborate on **Open Source**
-- 💬 Ask me about **Mobile Development & SDKs**
+With over **2+ years of dedicated experience**, I specialize in creating high-performance mobile apps exclusively for the **Android** platform.  
+My passion for Android development drives me to deliver innovative and immersive user experiences for your digital needs.
 
-### 📊 GitHub Stats
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilGABANI&show_icons=true&theme=radical)
+### 📱 Kotlin and Jetpack Compose Expertise
+Excelling in building native Android applications using **Kotlin** and **Jetpack Compose**, I adhere to best practices to craft intuitive and modern user interfaces.  
+This ensures your app leverages the latest features of the Android ecosystem for an outstanding user experience.
 
-### 🚀 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
+---
+
+## 🌟 My Skills
+
+- **Programming Languages:** Kotlin, Java  
+- **UI Framework:** Jetpack Compose  
+- **Architecture Patterns:** MVC, MVVM  
+- **Code Quality & Optimization:** Clean code practices, performance optimization  
+- **Social Authentication:** Integration with and without Firebase  
+- **Push Notifications:** Topic-wise, token-based (Firebase), OneSignal, local notifications  
+- **Firebase:** Realtime Database, Firestore, Analytics, Cloud Messaging  
+- **Payment Integration:** Google Play Billing, Razorpay  
+- **Geolocation Services:** Google Maps, Location tracking  
+- **Version Control:** GitHub, GitLab  
+- **Project Management Tools:** Trello, Jira  
+- **Design Tools:** Figma  
+- **CI/CD:** GitHub Actions, Bitrise  
+
+---
+
+## 📈 Let's Connect!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/) <!-- Add your LinkedIn profile -->
+- 📧 [Email Me](mailto:your-email@example.com) <!-- Add your email -->
+- 🌍 [Portfolio](https://your-portfolio-link.com) <!-- Add your portfolio -->
+
+---
+
+_Always open to exciting projects and collaborations!_
+
