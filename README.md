@@ -5,12 +5,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sahilGABANI&theme=darkhub&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilGABANI&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
