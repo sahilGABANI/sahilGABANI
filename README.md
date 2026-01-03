@@ -5,9 +5,9 @@
 
 ---
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilGABANI&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
+</p> -->
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sahilGABANI&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -47,9 +47,9 @@ This ensures your app leverages the latest features of the Android ecosystem for
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahilGABANI&show_icons=true&locale=en" alt="sahilGABANI" />
-</p>
+</p> -->
 
 ---
 
