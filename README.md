@@ -3,14 +3,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-gabani-067964228/)
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/sahilg65)
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilGABANI&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
+</p> -->
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sahilGABANI&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
----
+<!-- --- -->
 
 # 🚀 Java | Kotlin | Jetpack Compose | App Developer
 
@@ -40,21 +40,15 @@ This ensures your app leverages the latest features of the Android ecosystem for
 - **Version Control & Collaboration:** Git, GitHub, GitLab, Bitbucket  
 - **Project Management Tools:** Jira, Trello  
 
----
-
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats  -->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahilGABANI&show_icons=true&locale=en" alt="sahilGABANI" />
 </p> -->
 
----
-
 ## 🚀 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/sahil-gabani-067964228/)
 - [Upwork](https://www.upwork.com/freelancers/sahilg65)
-
----
 
 Thank you for visiting! ⭐️
