@@ -6,7 +6,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6FDA44&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Android+App+Developer+%F0%9F%93%B1;Kotlin+%7C+Jetpack+Compose+Expert+%F0%9F%9A%80;Transforming+Ideas+into+Apps+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6FDA44&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=Android+App+Developer+%F0%9F%93%B1;Kotlin+%7C+Jetpack+Compose+Expert+%F0%9F%9A%80;Transforming+Ideas+into+Apps+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
@@ -61,7 +61,7 @@ class AndroidDeveloper {
         "Kotlin Multiplatform Mobile (KMM)",
         "Compose Multiplatform",
         "Advanced Coroutines & Flow",
-        "Jetpack Navigation Component"
+        "Java Backend Development"
     )
     
     fun getMotivation(): String {
@@ -93,134 +93,106 @@ class AndroidDeveloper {
 
 <div align="center">
 
-### 💻 Languages & Frameworks
+### Core Technologies
 
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
-  <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-</p>
+<table>
+<tr>
+<td align="center" width="25%">
+<h3>💻 Languages</h3>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/><br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/><br/>
+<img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
+</td>
+<td align="center" width="25%">
+<h3>🎨 UI Frameworks</h3>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/><br/>
+<img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material Design"/><br/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+</td>
+<td align="center" width="25%">
+<h3>🏗️ Architecture</h3>
+<img src="https://img.shields.io/badge/MVVM-02569B?style=for-the-badge&logo=architecture&logoColor=white" alt="MVVM"/><br/>
+<img src="https://img.shields.io/badge/Clean%20Architecture-brightgreen?style=for-the-badge&logo=architecture&logoColor=white" alt="Clean Architecture"/><br/>
+<img src="https://img.shields.io/badge/Repository%20Pattern-blue?style=for-the-badge&logo=architecture&logoColor=white" alt="Repository"/>
+</td>
+<td align="center" width="25%">
+<h3>🔧 Tools</h3>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/><br/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
+</td>
+</tr>
+</table>
 
-### 🏗️ Architecture & Patterns
+### Libraries & Dependencies
 
-<p>
-  <img src="https://img.shields.io/badge/MVVM-02569B?style=for-the-badge&logo=architecture&logoColor=white" alt="MVVM"/>
-  <img src="https://img.shields.io/badge/MVC-009688?style=for-the-badge&logo=architecture&logoColor=white" alt="MVC"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-brightgreen?style=for-the-badge&logo=architecture&logoColor=white" alt="Clean Architecture"/>
-  <img src="https://img.shields.io/badge/Repository%20Pattern-blue?style=for-the-badge&logo=architecture&logoColor=white" alt="Repository Pattern"/>
-  <img src="https://img.shields.io/badge/Use%20Cases-purple?style=for-the-badge&logo=architecture&logoColor=white" alt="Use Cases"/>
-</p>
+<table>
+<tr>
+<td align="center" width="33%">
+<h4>⚡ Async & DI</h4>
+<img src="https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Coroutines"/>
+<img src="https://img.shields.io/badge/Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Flow"/>
+<img src="https://img.shields.io/badge/Hilt-FF6F00?style=flat-square&logo=android&logoColor=white" alt="Hilt"/>
+<img src="https://img.shields.io/badge/Dagger-FF9800?style=flat-square&logo=android&logoColor=white" alt="Dagger"/>
+</td>
+<td align="center" width="33%">
+<h4>🌐 Networking</h4>
+<img src="https://img.shields.io/badge/Retrofit-48B983?style=flat-square&logo=square&logoColor=white" alt="Retrofit"/>
+<img src="https://img.shields.io/badge/OkHttp-3E4348?style=flat-square&logo=square&logoColor=white" alt="OkHttp"/>
+<img src="https://img.shields.io/badge/Gson-FF6F00?style=flat-square&logo=json&logoColor=white" alt="Gson"/>
+<img src="https://img.shields.io/badge/Moshi-000000?style=flat-square&logo=json&logoColor=white" alt="Moshi"/>
+</td>
+<td align="center" width="33%">
+<h4>💾 Data & Storage</h4>
+<img src="https://img.shields.io/badge/Room-4285F4?style=flat-square&logo=android&logoColor=white" alt="Room"/>
+<img src="https://img.shields.io/badge/DataStore-4285F4?style=flat-square&logo=android&logoColor=white" alt="DataStore"/>
+<img src="https://img.shields.io/badge/Glide-00C4CC?style=flat-square&logo=android&logoColor=white" alt="Glide"/>
+<img src="https://img.shields.io/badge/Coil-00C4CC?style=flat-square&logo=android&logoColor=white" alt="Coil"/>
+</td>
+</tr>
+</table>
 
-### 🔧 Tools & IDEs
+### Backend & Integration Services
 
-<p>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
-
-### 📚 Core Libraries & Dependencies
-
-<p>
-  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white" alt="Retrofit"/>
-  <img src="https://img.shields.io/badge/OkHttp-3E4348?style=for-the-badge&logo=square&logoColor=white" alt="OkHttp"/>
-  <img src="https://img.shields.io/badge/Hilt-FF6F00?style=for-the-badge&logo=android&logoColor=white" alt="Hilt"/>
-  <img src="https://img.shields.io/badge/Dagger-FF9800?style=for-the-badge&logo=android&logoColor=white" alt="Dagger"/>
-  <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Coroutines"/>
-  <img src="https://img.shields.io/badge/Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Flow"/>
-  <img src="https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Room"/>
-  <img src="https://img.shields.io/badge/DataStore-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="DataStore"/>
-  <img src="https://img.shields.io/badge/Glide-00C4CC?style=for-the-badge&logo=android&logoColor=white" alt="Glide"/>
-  <img src="https://img.shields.io/badge/Coil-00C4CC?style=for-the-badge&logo=android&logoColor=white" alt="Coil"/>
-  <img src="https://img.shields.io/badge/Gson-FF6F00?style=for-the-badge&logo=json&logoColor=white" alt="Gson"/>
-  <img src="https://img.shields.io/badge/Moshi-000000?style=for-the-badge&logo=json&logoColor=white" alt="Moshi"/>
-</p>
-
-### 🔥 Firebase Services
-
-<p>
-  <img src="https://img.shields.io/badge/Authentication-FFA000?style=for-the-badge&logo=firebase&logoColor=white" alt="Authentication"/>
-  <img src="https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firestore"/>
-  <img src="https://img.shields.io/badge/Realtime%20Database-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Realtime Database"/>
-  <img src="https://img.shields.io/badge/Cloud%20Messaging-4285F4?style=for-the-badge&logo=firebase&logoColor=white" alt="FCM"/>
-  <img src="https://img.shields.io/badge/Cloud%20Storage-FF6F00?style=for-the-badge&logo=firebase&logoColor=white" alt="Cloud Storage"/>
-  <img src="https://img.shields.io/badge/Analytics-FFA000?style=for-the-badge&logo=firebase&logoColor=white" alt="Analytics"/>
-  <img src="https://img.shields.io/badge/Crashlytics-FF6F00?style=for-the-badge&logo=firebase&logoColor=white" alt="Crashlytics"/>
-</p>
-
-### 🔐 Authentication & Social Login
-
-<p>
-  <img src="https://img.shields.io/badge/Google%20Sign--In-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Sign-In"/>
-  <img src="https://img.shields.io/badge/Facebook%20Login-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Login"/>
-  <img src="https://img.shields.io/badge/OAuth%202.0-000000?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth 2.0"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-</p>
-
-### 💳 Payment Integration
-
-<p>
-  <img src="https://img.shields.io/badge/Google%20In--App%20Billing-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google In-App"/>
-  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay"/>
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
-</p>
-
-### 🗺️ Location & Maps
-
-<p>
-  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps"/>
-  <img src="https://img.shields.io/badge/Places%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Places API"/>
-  <img src="https://img.shields.io/badge/Location%20Services-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Location Services"/>
-  <img src="https://img.shields.io/badge/Geocoding-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Geocoding"/>
-</p>
-
-### 📢 Push Notifications
-
-<p>
-  <img src="https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="FCM"/>
-  <img src="https://img.shields.io/badge/OneSignal-E54B4D?style=for-the-badge&logo=onesignal&logoColor=white" alt="OneSignal"/>
-  <img src="https://img.shields.io/badge/Local%20Notifications-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Local Notifications"/>
-</p>
-
-### 🧪 Testing
-
-<p>
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
-  <img src="https://img.shields.io/badge/Espresso-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Espresso"/>
-  <img src="https://img.shields.io/badge/MockK-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="MockK"/>
-  <img src="https://img.shields.io/badge/Truth-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Truth"/>
-</p>
-
-### 🔄 Version Control & Collaboration
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket"/>
-</p>
-
-### 📋 Project Management
-
-<p>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-</p>
-
-### 🚀 Build & CI/CD
-
-<p>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white" alt="Fastlane"/>
-</p>
+<table>
+<tr>
+<td align="center" width="20%">
+<h4>🔥 Firebase</h4>
+<img src="https://img.shields.io/badge/Auth-FFA000?style=flat-square&logo=firebase&logoColor=white" alt="Auth"/>
+<img src="https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=firebase&logoColor=white" alt="Firestore"/>
+<img src="https://img.shields.io/badge/FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="FCM"/>
+<img src="https://img.shields.io/badge/Storage-FF6F00?style=flat-square&logo=firebase&logoColor=white" alt="Storage"/>
+</td>
+<td align="center" width="20%">
+<h4>🔐 Authentication</h4>
+<img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
+<img src="https://img.shields.io/badge/OAuth-000000?style=flat-square&logo=auth0&logoColor=white" alt="OAuth"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+</td>
+<td align="center" width="20%">
+<h4>💳 Payments</h4>
+<img src="https://img.shields.io/badge/Google%20IAB-4285F4?style=flat-square&logo=google&logoColor=white" alt="IAB"/>
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" alt="Razorpay"/>
+<img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
+<img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" alt="PayPal"/>
+</td>
+<td align="center" width="20%">
+<h4>🗺️ Maps & Location</h4>
+<img src="https://img.shields.io/badge/Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" alt="Maps"/>
+<img src="https://img.shields.io/badge/Places-4285F4?style=flat-square&logo=google&logoColor=white" alt="Places"/>
+<img src="https://img.shields.io/badge/Location-34A853?style=flat-square&logo=google&logoColor=white" alt="Location"/>
+<img src="https://img.shields.io/badge/Geocoding-4285F4?style=flat-square&logo=google&logoColor=white" alt="Geocoding"/>
+</td>
+<td align="center" width="20%">
+<h4>🧪 Testing & CI/CD</h4>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit"/>
+<img src="https://img.shields.io/badge/Espresso-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Espresso"/>
+<img src="https://img.shields.io/badge/MockK-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="MockK"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Actions"/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -229,25 +201,26 @@ class AndroidDeveloper {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
+
+<!-- Comment out until images load properly
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahilGABANI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilGABANI&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilGABANI&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=sahilGABANI&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
-
-</div>
-
-<div align="center">
+-->
 
 ### 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilGABANI&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 
+**Note:** GitHub statistics widgets are temporarily disabled due to loading issues. Working on fixing them!
+
 </div>
 
 ---
 
+<!-- GitHub Trophies section hidden due to loading issues
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -257,8 +230,11 @@ class AndroidDeveloper {
 </div>
 
 ---
+-->
 
 ## 💼 What I Bring to the Table
+
+<div align="center">
 
 <table>
 <tr>
@@ -319,6 +295,8 @@ class AndroidDeveloper {
 </tr>
 </table>
 
+</div>
+
 ---
 
 ## 🎯 Development Approach
@@ -377,8 +355,6 @@ graph TD
 <div align="center">
 
 ### 🎯 Types of Apps I Build
-
-</div>
 
 <table>
 <tr>
@@ -447,6 +423,8 @@ graph TD
 </tr>
 </table>
 
+</div>
+
 ---
 
 ## 💡 Fun Facts About Me
@@ -507,6 +485,19 @@ funFacts.forEach { (key, value) ->
 
 ---
 
+## 📊 Weekly Development Breakdown
+
+```text
+Kotlin             18 hrs 30 mins  ████████████████░░░░░   46.25%
+Java Backend        7 hrs 45 mins   ████░░░░░░░░░░░░░░░░   19.37%
+XML                 5 hrs 20 mins   ███░░░░░░░░░░░░░░░░░   13.33%
+Gradle              3 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░    8.12%
+JSON                2 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░    6.25%
+Other               2 hrs 40 mins   █░░░░░░░░░░░░░░░░░░░    6.68%
+```
+
+---
+
 ## 📫 Let's Connect & Collaborate!
 
 <div align="center">
@@ -535,41 +526,44 @@ I'm here to bring your vision to life with clean code and exceptional user exper
 
 ---
 
-## 💭 Quote I Live By
+## 💼 Open for Opportunities
 
 <div align="center">
 
-### *"First, solve the problem. Then, write the code."* - John Johnson
+<table>
+<tr>
+<td align="center" width="50%">
 
-### *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+### 🚀 Available For
 
-### *"The best way to predict the future is to create it."* - Peter Drucker
+✅ **Freelance Projects**  
+✅ **Contract Work**  
+✅ **Full-time Positions**  
+✅ **Consulting**  
+✅ **Open Source Contributions**  
+✅ **Technical Writing**
+
+</td>
+<td align="center" width="50%">
+
+### 📋 Preferred Projects
+
+🎯 **Greenfield Android Apps**  
+🔄 **App Modernization**  
+🏗️ **Architecture Refactoring**  
+🚀 **Performance Optimization**  
+🎨 **UI/UX Implementation**  
+🔧 **API Integration**
+
+</td>
+</tr>
+</table>
+
+### 💡 Ready to discuss your next Android project?
+
+**Let's turn your ideas into reality!** 🚀
 
 </div>
-
----
-
-## 🎯 2024 Goals
-
-- ✅ Master Kotlin Multiplatform Mobile
-- ✅ Contribute to more open-source projects
-- ✅ Build 5 innovative Android apps
-- ✅ Write technical blog posts
-- ✅ Mentor aspiring Android developers
-- ✅ Achieve 100+ GitHub stars
-- ✅ Learn Compose Multiplatform
-
----
-
-## 📊 Weekly Development Breakdown
-
-```text
-Kotlin       15 hrs 30 mins  ███████████████████░░░░░░   68.50%
-XML          3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.60%
-Gradle       1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░    6.65%
-JSON         1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░    5.55%
-Other        35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░    2.70%
-```
 
 ---
 
@@ -590,19 +584,13 @@ Other        35 mins         █░░░░░░░░░░░░░░░░
 
 ---
 
-## 💼 Open for Opportunities
-
 <div align="center">
 
-### 🚀 Available for
+### ⭐ From [sahilGABANI](https://github.com/sahilGABANI)
 
-✅ **Freelance Projects**  
-✅ **Contract Work**  
-✅ **Full-time Positions**  
-✅ **Consulting**  
-✅ **Open Source Contributions**  
-✅ **Technical Writing**
+**Made with ❤️ and lots of ☕**
 
-### 📋 Preferred Project Types
+</div>
 
-🎯 Green
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
