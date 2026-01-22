@@ -32,7 +32,7 @@
 
 </div>
 
----
+--- 
 
 ## 🚀 About Me
 
@@ -74,8 +74,6 @@ class AndroidDeveloper {
 }
 ```
 
-<div align="center">
-
 ### 💼 Professional Highlights
 
 🎯 **3+ Years** of crafting exceptional Android experiences  
@@ -85,160 +83,113 @@ class AndroidDeveloper {
 🌟 Committed to delivering **pixel-perfect** user interfaces  
 🔥 Successfully delivered **20+ production applications**
 
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### Core Technologies
 
-<table>
-<tr>
-<td align="center" width="25%">
-<h3>💻 Languages</h3>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/><br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/><br/>
-<img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
-</td>
-<td align="center" width="25%">
-<h3>🎨 UI Frameworks</h3>
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/><br/>
-<img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material Design"/><br/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-</td>
-<td align="center" width="25%">
-<h3>🏗️ Architecture</h3>
-<img src="https://img.shields.io/badge/MVVM-02569B?style=for-the-badge&logo=architecture&logoColor=white" alt="MVVM"/><br/>
-<img src="https://img.shields.io/badge/Clean%20Architecture-brightgreen?style=for-the-badge&logo=architecture&logoColor=white" alt="Clean Architecture"/><br/>
-<img src="https://img.shields.io/badge/Repository%20Pattern-blue?style=for-the-badge&logo=architecture&logoColor=white" alt="Repository"/>
-</td>
-<td align="center" width="25%">
-<h3>🔧 Tools</h3>
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/><br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/><br/>
-<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
-</td>
-</tr>
-</table>
+**Languages**
+- Kotlin
+- Java
+- XML
+- Gradle
+
+**UI Frameworks**
+- Jetpack Compose
+- XML Layouts
+- Material Design 3
+- Custom Views
+- Constraint Layout
+- Motion Layout
+
+**Architecture**
+- MVVM
+- MVC
+- Clean Architecture
+- Repository Pattern
+- Dependency Injection
+
+**Tools**
+- Android Studio
+- Git & GitHub
+- Gradle Build System
+- ADB
+- Postman
+- Figma
 
 ### Libraries & Dependencies
 
-<table>
-<tr>
-<td align="center" width="33%">
-<h4>⚡ Async & DI</h4>
-<img src="https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Coroutines"/>
-<img src="https://img.shields.io/badge/Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Flow"/>
-<img src="https://img.shields.io/badge/Hilt-FF6F00?style=flat-square&logo=android&logoColor=white" alt="Hilt"/>
-<img src="https://img.shields.io/badge/Dagger-FF9800?style=flat-square&logo=android&logoColor=white" alt="Dagger"/>
-</td>
-<td align="center" width="33%">
-<h4>🌐 Networking</h4>
-<img src="https://img.shields.io/badge/Retrofit-48B983?style=flat-square&logo=square&logoColor=white" alt="Retrofit"/>
-<img src="https://img.shields.io/badge/OkHttp-3E4348?style=flat-square&logo=square&logoColor=white" alt="OkHttp"/>
-<img src="https://img.shields.io/badge/Gson-FF6F00?style=flat-square&logo=json&logoColor=white" alt="Gson"/>
-<img src="https://img.shields.io/badge/Moshi-000000?style=flat-square&logo=json&logoColor=white" alt="Moshi"/>
-</td>
-<td align="center" width="33%">
-<h4>💾 Data & Storage</h4>
-<img src="https://img.shields.io/badge/Room-4285F4?style=flat-square&logo=android&logoColor=white" alt="Room"/>
-<img src="https://img.shields.io/badge/DataStore-4285F4?style=flat-square&logo=android&logoColor=white" alt="DataStore"/>
-<img src="https://img.shields.io/badge/Glide-00C4CC?style=flat-square&logo=android&logoColor=white" alt="Glide"/>
-<img src="https://img.shields.io/badge/Coil-00C4CC?style=flat-square&logo=android&logoColor=white" alt="Coil"/>
-</td>
-</tr>
-</table>
+**Async & DI**
+- Kotlin Coroutines
+- Flow
+- Hilt
+- Dagger
+- Koin
+
+**Networking**
+- Retrofit
+- OkHttp
+- GraphQL
+- WebSocket
+- Ktor Client
+
+**Data & Storage**
+- Room Database
+- SharedPreferences
+- DataStore
+- SQLite
+- Realm
 
 ### Backend & Integration Services
 
-<table>
-<tr>
-<td align="center" width="20%">
-<h4>🔥 Firebase</h4>
-<img src="https://img.shields.io/badge/Auth-FFA000?style=flat-square&logo=firebase&logoColor=white" alt="Auth"/>
-<img src="https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=firebase&logoColor=white" alt="Firestore"/>
-<img src="https://img.shields.io/badge/FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="FCM"/>
-<img src="https://img.shields.io/badge/Storage-FF6F00?style=flat-square&logo=firebase&logoColor=white" alt="Storage"/>
-</td>
-<td align="center" width="20%">
-<h4>🔐 Authentication</h4>
-<img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google"/>
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
-<img src="https://img.shields.io/badge/OAuth-000000?style=flat-square&logo=auth0&logoColor=white" alt="OAuth"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-</td>
-<td align="center" width="20%">
-<h4>💳 Payments</h4>
-<img src="https://img.shields.io/badge/Google%20IAB-4285F4?style=flat-square&logo=google&logoColor=white" alt="IAB"/>
-<img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" alt="Razorpay"/>
-<img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
-<img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" alt="PayPal"/>
-</td>
-<td align="center" width="20%">
-<h4>🗺️ Maps & Location</h4>
-<img src="https://img.shields.io/badge/Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" alt="Maps"/>
-<img src="https://img.shields.io/badge/Places-4285F4?style=flat-square&logo=google&logoColor=white" alt="Places"/>
-<img src="https://img.shields.io/badge/Location-34A853?style=flat-square&logo=google&logoColor=white" alt="Location"/>
-<img src="https://img.shields.io/badge/Geocoding-4285F4?style=flat-square&logo=google&logoColor=white" alt="Geocoding"/>
-</td>
-<td align="center" width="20%">
-<h4>🧪 Testing & CI/CD</h4>
-<img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit"/>
-<img src="https://img.shields.io/badge/Espresso-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Espresso"/>
-<img src="https://img.shields.io/badge/MockK-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="MockK"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Actions"/>
-</td>
-</tr>
-</table>
+**Firebase**
+- Authentication
+- Firestore
+- Realtime Database
+- Cloud Storage
+- Cloud Messaging
+- Analytics
+- Crashlytics
 
-</div>
+**Authentication**
+- OAuth 2.0
+- JWT
+- Google Sign-In
+- Facebook Login
+- Phone Authentication
+
+**Payments**
+- Razorpay
+- Stripe
+- PayPal
+- In-App Billing
+- UPI Integration
+
+**Maps & Location**
+- Google Maps SDK
+- Places API
+- Geolocation
+- Location Services
+
+**Testing & CI/CD**
+- JUnit
+- Espresso
+- Mockito
+- GitHub Actions
+- Bitrise
 
 ---
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<!-- Comment out until images load properly
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahilGABANI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilGABANI&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilGABANI&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=sahilGABANI&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
--->
-
 ### 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilGABANI&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 
 **Note:** GitHub statistics widgets are temporarily disabled due to loading issues. Working on fixing them!
 
-</div>
-
 ---
-
-<!-- GitHub Trophies section hidden due to loading issues
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=sahilGABANI&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
--->
 
 ## 💼 What I Bring to the Table
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### 🎨 UI/UX & Design
 - ✨ Pixel-perfect UI implementation
@@ -250,9 +201,6 @@ class AndroidDeveloper {
 - 🖼️ Vector graphics & illustrations
 - 📐 Constraint & Motion layouts
 
-</td>
-<td width="50%" valign="top">
-
 ### 🏗️ Architecture & Quality
 - 🏛️ Clean Architecture principles
 - 📐 SOLID design patterns
@@ -262,11 +210,6 @@ class AndroidDeveloper {
 - 📊 Performance optimization
 - 🐛 Debugging & crash analytics
 - 📝 Code documentation
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### 🔐 Backend & Integration
 - 🔒 OAuth & social authentication
@@ -278,9 +221,6 @@ class AndroidDeveloper {
 - 📡 WebSocket & real-time data
 - 💾 Local & remote data sync
 
-</td>
-<td width="50%" valign="top">
-
 ### 🤝 Professional Skills
 - 📋 Agile/Scrum methodology
 - 🎯 Clear & timely communication
@@ -291,17 +231,9 @@ class AndroidDeveloper {
 - 🎓 Mentoring junior developers
 - 🔍 Code review expertise
 
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
 
 ## 🎯 Development Approach
-
-<div align="center">
 
 ### My Development Workflow
 
@@ -329,13 +261,9 @@ graph TD
     style I fill:#fd79a8,stroke:#c2255c,color:#fff
 ```
 
-</div>
-
 ---
 
 ## 🌟 Core Competencies
-
-<div align="center">
 
 | 💻 Technical Skills | 🎯 Soft Skills | 🚀 Specializations |
 |:---:|:---:|:---:|
@@ -346,19 +274,11 @@ graph TD
 | REST APIs | Adaptability | Custom UI Components |
 | Git & Version Control | Critical Thinking | State Management |
 
-</div>
-
 ---
 
 ## 📱 App Development Expertise
 
-<div align="center">
-
 ### 🎯 Types of Apps I Build
-
-<table>
-<tr>
-<td width="33%" align="center">
 
 ### 🛒 E-Commerce
 - Shopping apps
@@ -367,18 +287,12 @@ graph TD
 - Order tracking
 - Wishlist & cart
 
-</td>
-<td width="33%" align="center">
-
 ### 📱 Social Media
 - User profiles
 - News feeds
 - Chat & messaging
 - Media sharing
 - Notifications
-
-</td>
-<td width="33%" align="center">
 
 ### 🏥 Healthcare
 - Appointment booking
@@ -387,20 +301,12 @@ graph TD
 - Health tracking
 - Medication reminders
 
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
 ### 🎓 Education
 - Learning platforms
 - Course management
 - Video streaming
 - Quiz & assignments
 - Progress tracking
-
-</td>
-<td width="33%" align="center">
 
 ### 🍔 Food Delivery
 - Restaurant listings
@@ -409,9 +315,6 @@ graph TD
 - Real-time tracking
 - Reviews & ratings
 
-</td>
-<td width="33%" align="center">
-
 ### 💼 Business
 - CRM systems
 - Task management
@@ -419,17 +322,9 @@ graph TD
 - Team collaboration
 - Document management
 
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
 
 ## 💡 Fun Facts About Me
-
-<div align="center">
 
 ```kotlin
 val funFacts = mapOf(
@@ -443,36 +338,26 @@ val funFacts = mapOf(
     "🚀 Dream Project" to "Building apps that change lives"
 )
 
-funFacts.forEach { (key, value) -> 
+funFacts.forEach { (key, value) ->
     println("$key → $value")
 }
 ```
-
-</div>
 
 ---
 
 ## 📚 Latest Blog Posts & Articles
 
-<div align="center">
-
-<!-- BLOG-POST-LIST:START -->
 - 🚀 Building Modern Android Apps with Jetpack Compose
 - 🏗️ Clean Architecture in Android: A Practical Guide
 - ⚡ Kotlin Coroutines: From Basics to Advanced
 - 🎨 Material Design 3: What's New for Android Developers
 - 🔥 Firebase vs Supabase: Choosing the Right Backend
-<!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more articles...](https://medium.com/@sahilgabani)
-
-</div>
 
 ---
 
 ## 🎓 Certifications & Achievements
-
-<div align="center">
 
 🏆 **Android Developer Certification**  
 📜 **Kotlin Certified Developer**  
@@ -481,58 +366,33 @@ funFacts.forEach { (key, value) ->
 🎯 **100% Job Success Score**  
 💯 **20+ Successful Projects Delivered**
 
-</div>
-
 ---
 
 ## 📊 Weekly Development Breakdown
 
 ```text
-Kotlin             18 hrs 30 mins  ████████████████░░░░░   46.25%
-Java Backend        7 hrs 45 mins   ████░░░░░░░░░░░░░░░░   19.37%
-XML                 5 hrs 20 mins   ███░░░░░░░░░░░░░░░░░   13.33%
-Gradle              3 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░    8.12%
-JSON                2 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░    6.25%
-Other               2 hrs 40 mins   █░░░░░░░░░░░░░░░░░░░    6.68%
+Kotlin          18 hrs 30 mins  ████████████████░░░░░  46.25%
+Java Backend     7 hrs 45 mins  ████░░░░░░░░░░░░░░░░  19.37%
+XML              5 hrs 20 mins  ███░░░░░░░░░░░░░░░░░  13.33%
+Gradle           3 hrs 15 mins  ██░░░░░░░░░░░░░░░░░░   8.12%
+JSON             2 hrs 30 mins  █░░░░░░░░░░░░░░░░░░░   6.25%
+Other            2 hrs 40 mins  █░░░░░░░░░░░░░░░░░░░   6.68%
 ```
 
 ---
 
 ## 📫 Let's Connect & Collaborate!
 
-<div align="center">
-
 ### 💬 I'm always excited to work on innovative Android projects!
 
-Whether you need a new app built from scratch or want to enhance an existing one,  
-I'm here to bring your vision to life with clean code and exceptional user experience.
-
-<p>
-  <a href="https://www.linkedin.com/in/sahil-gabani-067964228/">
-    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/sahilg65">
-    <img src="https://img.shields.io/badge/Hire%20me%20on-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
-  </a>
-  <a href="mailto:sahilgabani.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+Whether you need a new app built from scratch or want to enhance an existing one, I'm here to bring your vision to life with clean code and exceptional user experience.
 
 ### 📧 Email: sahilgabani.dev@gmail.com
 ### 📱 Location: Surat, Gujarat, India 🇮🇳
 
-</div>
-
 ---
 
 ## 💼 Open for Opportunities
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
 
 ### 🚀 Available For
 
@@ -543,9 +403,6 @@ I'm here to bring your vision to life with clean code and exceptional user exper
 ✅ **Open Source Contributions**  
 ✅ **Technical Writing**
 
-</td>
-<td align="center" width="50%">
-
 ### 📋 Preferred Projects
 
 🎯 **Greenfield Android Apps**  
@@ -555,21 +412,13 @@ I'm here to bring your vision to life with clean code and exceptional user exper
 🎨 **UI/UX Implementation**  
 🔧 **API Integration**
 
-</td>
-</tr>
-</table>
-
 ### 💡 Ready to discuss your next Android project?
 
 **Let's turn your ideas into reality!** 🚀
 
-</div>
-
 ---
 
 ## 🌐 Find Me Around the Web
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-gabani-067964228/)
 [![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/sahilg65)
@@ -580,17 +429,8 @@ I'm here to bring your vision to life with clean code and exceptional user exper
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
-</div>
-
 ---
-
-<div align="center">
 
 ### ⭐ From [sahilGABANI](https://github.com/sahilGABANI)
 
 **Made with ❤️ and lots of ☕**
-
-</div>
-
-<!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
